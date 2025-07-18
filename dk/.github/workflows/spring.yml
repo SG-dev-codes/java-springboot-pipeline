@@ -1,4 +1,4 @@
-name: Java CI with Maven and MySQL
+name: Java CI with Maven MYSQL
 
 on:
   push:
