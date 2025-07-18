@@ -42,4 +42,4 @@ jobs:
           done
 
       - name: Build with Maven
-        run: mvn clean install -Dspring.datasource.username=root -Dspring.datasource.password=root
+        run: mvn clean install -Dspring.datasource.username=root -Dspring.datasource.password=12345
